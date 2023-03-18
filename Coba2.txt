@@ -5,3 +5,4 @@ Case 2
 3
 resolve
 tambah lagi bro
+resolve 1
