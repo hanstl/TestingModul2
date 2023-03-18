@@ -6,3 +6,4 @@ Case 2
 resolve
 tambah lagi bro
 resolve 1
+resolve 2 3
